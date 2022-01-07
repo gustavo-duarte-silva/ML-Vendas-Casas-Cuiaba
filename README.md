@@ -1,8 +1,9 @@
 # ML-Vendas-Casas-Cuiaba
 
 ## Objetivo: 
-> Realizar uma previsão de quanto custa uma casa no bairro Jardim Imperial 1.</br>
-> Este Dataset foi obtido no Kaggle, 
+> Realizar uma previsão de quanto custa uma casa no bairro Jardim Imperial I na cidade de Cuiabá-MT.</br>
+> Este Dataset foi obtido no Kaggle</br>
+> Link do Dataset: https://www.kaggle.com/moacyr007/casas-jardim-imperial-cuiaba
 > 
 ## Estudo:
 >* Variavel Target: **Preço das casas**
